@@ -1,5 +1,5 @@
 body{
-	background:#3e1d09 url(../images/bg-body.jpg) center top no-repeat;
+	background:black url(../images/bg-body.jpg) center top no-repeat;
 	color:#c1c1c1;
 	font-family:Arial, Verdana, Helvetica, sans-serif;
 	margin:0;
@@ -380,7 +380,7 @@ body{
 }
 /*------------------------- Footer -------------------------*/
 #footer{
-	background-color:#209201;
+	background-color:white;
 	height:60px;
 	width:100%;
 	line-height:60px;
